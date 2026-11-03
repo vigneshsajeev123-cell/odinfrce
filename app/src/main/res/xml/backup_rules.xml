@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Privacy: exclude database from standard cloud backup -->
+    <exclude domain="database" path="memory_universe.db" />
+</full-backup-content>

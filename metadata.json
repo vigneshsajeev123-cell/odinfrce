@@ -1,0 +1,6 @@
+{
+  "name": "Memory Universe",
+  "description": "A pitch-black, offline 3D Android memory gallery uniting photos and notes in an immersive universe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

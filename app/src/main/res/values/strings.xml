@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Memory Universe</string>
+    <string name="app_tagline">Offline 3D Memory Exploration</string>
+    <string name="nav_universe">Universe</string>
+    <string name="nav_clusters">Clusters</string>
+    <string name="nav_notes">Notes</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_settings">Settings</string>
+    <string name="permission_rationale">Memory Universe operates entirely offline. It reads your local device photographs to render them as floating memories in deep 3D space and organize them locally on your phone.</string>
+    <string name="grant_permission">Grant Photo Access</string>
+    <string name="permission_denied_help">Photo permission was denied. Please grant permission in System Settings to explore your photos in the 3D universe.</string>
+</resources>

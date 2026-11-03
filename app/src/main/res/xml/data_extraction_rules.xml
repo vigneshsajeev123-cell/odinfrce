@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- Purely offline: disallow cloud backup of indexed personal memories -->
+        <exclude domain="database" path="memory_universe.db" />
+    </cloud-backup>
+    <device-transfer>
+        <include domain="database" path="memory_universe.db" />
+    </device-transfer>
+</data-extraction-rules>
